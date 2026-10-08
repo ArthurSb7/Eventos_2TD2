@@ -27,6 +27,7 @@ require_once "init.php";
         </div>
     </header>
         <nav>
+        <a href="index.php">Home</a>
         <a href="detalhes.php">Detalhar</a>
         <a href="edicao.php">Editar</a>
         <a href="remocao.php">Remover</a>  
